@@ -1,6 +1,7 @@
 ## Opa, me chamo Eduardo 
 Cursando Análise e desenvolvimento de sistemas na Fatec ZL!
-- 🔭 Estou desenvolvendo projetos de faculdade até o momento.  
+- 🔭 Desenvolvendo projetos universitários e pessoais.
+- 💼 Estagiando como analista de sistemas.
 - 🌱 Aprendendo Java, Python e SQL.
 - 📫 Email de contato: Honorio.edu2020@gmail.com
 
