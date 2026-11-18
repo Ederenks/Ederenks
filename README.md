@@ -5,6 +5,14 @@ Cursando Análise e desenvolvimento de sistemas na Fatec ZL!
 - 🌱 Aprendendo Java, Python e SQL.
 - 📫 Email de contato: Honorio.edu2020@gmail.com
 
+
+### 🛠️ Stack & Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cs,java,git,github,vscode" alt="skills" />
+</p>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -13,7 +21,7 @@ Cursando Análise e desenvolvimento de sistemas na Fatec ZL!
 
   
 </div>
-
+---
 ##
 
 <div> 
